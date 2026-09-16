@@ -1,103 +1,146 @@
 <div align="center">
 
-# Егор Карпунин | Egor Karpunin[cite: 1]
+# Егор Карпунин | Egor Karpunin
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Computer+Vision+Researcher;Deep+Learning+Engineer;MIPT+Student&center=true&width=500&height=45&color=00B4D8&color=9EF5F7FF">
-
-💻 **ML Engineer | Computer Vision | Deep Learning**[cite: 1]  
-
-📍 Moscow / Remote  
-
-🚀 Open to internships & Junior ML / CV roles  
-
-</div>
-
----
-
-## 🧠 Обо мне | About Me
-
-- 🔬 ML Engineer с упором на Computer Vision, Deep Learning и классический анализ данных[cite: 1].
-- 🔬 ML Engineer specializing in Computer Vision, Deep Learning, and classical ML[cite: 1].
-- 🎓 Студент МФТИ (ФЭФМ, бакалавриат «Прикладная физика и математика»)[cite: 1].
-- 📚 Выпускник Deep Learning School (ФПМИ МФТИ) & Phystech@DataScience[cite: 1].
-- 📊 Интересы: Computer Vision, Image Restoration, Computational Physics, NLP, Classical ML[cite: 1].
-- 🌍 English: B2[cite: 1].
-- 🔎 Ищу стажировки и Junior ML / CV позиции на осень 2026.
-
----
-
-## ⚡ Tech Stack
-
-### 💻 Core Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)[cite: 1] ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)[cite: 1] ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-### 👁️ Deep Learning & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)[cite: 1] ![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Albumentations](https://img.shields.io/badge/Albumentations-4B8BBE?style=for-the-badge) ![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)[cite: 1]
-
-### 🤖 Classical ML & Data Analysis
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)[cite: 1] ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)[cite: 1] ![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge)[cite: 1] ![Scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)[cite: 1] ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge)[cite: 1] ![LightGBM](https://img.shields.io/badge/LightGBM-3A833A?style=for-the-badge)[cite: 1] ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge)[cite: 1] ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-
-### ⚙️ Tools, DB & Infrastructure
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)[cite: 1] ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)[cite: 1] ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)[cite: 1] ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)[cite: 1]
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
+<a href="https://github.com/lonvein">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&height=50&lines=Computer+Vision+%26+Deep+Learning+Engineer;PyTorch+%7C+Image+Restoration+%7C+U-Net;Applied+Machine+Learning+%26+Data+Science;MIPT+Student+(Applied+Physics+%26+Math)" alt="Typing SVG" />
+</a>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lonvein&theme=tokyonight" alt="Profile Details" />[cite: 1]
+  <img src="https://img.shields.io/badge/Focus-Computer_Vision_%26_Deep_Learning-00B4D8?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Location-Moscow-blueviolet?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Status-Open_to_Internships-00F5D4?style=flat-square" alt="Status" />
+  <img src="https://img.shields.io/badge/English-B2-informational?style=flat-square" alt="English" />
 </p>
 
 </div>
 
 ---
 
-## 🔥 Activity
+## 👨‍💻 Обо мне / About Me
+
+- 🔬 **ML / CV Engineer** с фундаментальной математической подготовкой (МФТИ) и фокусом на глубоком обучении, компьютерном зрении и решении прикладных физических и инженерных задач.
+- 🎓 Студент **МФТИ (ФЭФМ)** по направлению «Прикладная физика и математика».
+- 🧠 Выпускник программ **Deep Learning School** (ФПМИ МФТИ) и **Phystech@DataScience**.
+- 🚀 Специализация: **Computer Vision** (восстановление изображений, сверточные сети, сегментация), **Applied ML** (градиентный бустинг, валидация, статистика) и алгоритмическая разработка на **Python / C++**.
+- 🎯 Открыт к предложениям по стажировкам и Junior-позициям в областях Computer Vision, Deep Learning и Machine Learning.
+
+---
+
+## 🛠 Технологический стек / Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="20%"><strong>Deep Learning & CV</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/Torchvision-EE4C2C?style=flat-square" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Albumentations-4B8BBE?style=flat-square" />
+      <img src="https://img.shields.io/badge/U--Net-00B4D8?style=flat-square" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><strong>Classical ML & Data</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <img src="https://img.shields.io/badge/Polars-CD792C?style=flat-square" />
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" />
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat-square&logoColor=black" />
+      <img src="https://img.shields.io/badge/LightGBM-3A833A?style=flat-square" />
+      <img src="https://img.shields.io/badge/XGBoost-AA4A44?style=flat-square" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><strong>Языки и Алгоритмы</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python_3.x-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/C++_(STL)-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%"><strong>Инфраструктура и Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_/_SSH-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/LaTeX_/_Overleaf-008080?style=flat-square&logo=latex&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Ключевые проекты / Featured Projects
+
+### 🌌 1. Optical Image Restoration & Wave Optics (Physics-Informed Deep Learning)
+> **Реконструкция оптических изображений сквозь сильно рассеивающие среды с помощью глубоких нейросетей.**
+
+- **Постановка проблемы:** Прохождение когерентного лазерного излучения через сильно рассеивающую среду (матовые стекла, биоструктуры) приводит к дефазировке и формированию сложной спекл-картины. Классические итерационные алгоритмы фазового восстановления (алгоритм Фиенапа / Gerchberg-Saxton) страдают от застревания в локальных минимумах, критически медленны и дают низкое качество при зашумлении.
+- **Инженерное и научное решение:**
+  - Смоделировал математический пайплайн распространения световых волн через случайно-неоднородные среды методом углового спектра (**Angular Spectrum Method, ASM**) на базе волнового уравнения Гельмгольца.
+  - Синтезировал физически корректный обучающий датасет интерференционных спекл-картин.
+  - Спроектировал и обучил модифицированную архитектуру **U-Net** на **PyTorch** для решения обратной некорректной задачи восстановления фазы и амплитуды исходного объекта по интенсивности спекла.
+  - Реализовал комбинированную функцию потерь (сочетание MSE, L1 и Structural Similarity Index Measure) для сохранения как глобальной яркости, так и тонких текстурных деталей.
+- **Результаты:**
+  - Достигнут показатель **SSIM = 0.85** на тестовой выборке (классический алгоритм Фиенапа показал лишь **0.12**).
+  - Скорость восстановления изображения выросла в десятки раз — переход от сотен медленных итераций к прямому проходу (**one-pass forward inference**) нейросети.
+- **Стек:** `Python`, `PyTorch`, `Torchvision`, `OpenCV`, `NumPy`, `SciPy (FFT / Wave Optics)`, `Matplotlib`.
+
+---
+
+### 🛒 2. E-Commerce Query Understanding & NLP Attribute Extraction
+> **Модуль семантического анализа поисковых запросов и извлечения атрибутов для каталога маркетплейса.**
+
+- **Постановка проблемы:** Поисковые запросы пользователей содержат опечатки, пропуски, нестандартный порядок слов и смешение категорий с характеристиками товаров (размер, цвет, бренд, назначение), что снижает точность поиска и конверсию.
+- **Инженерное решение:**
+  - Провел глубокий разведочный анализ (**EDA**) массива из 20 000 поисковых запросов интернет-магазина.
+  - Построил конвейер тематической кластеризации: векторизация текстов с помощью **TF-IDF**, снижение размерности с сохранением дисперсии через сингулярное разложение (**TruncatedSVD**) и группировка запросов алгоритмом **K-Means**.
+  - Разработал устойчивый модуль автоматического парсинга и экстракции атрибутов на основе морфологического анализатора **pymorphy3** и регулярных выражений.
+  - Решил фундаментальные проблемы нормализации текста: корректная обработка синтаксических инверсий («куртка зимняя мужская» vs «мужская зимняя куртка»), снятие омонимии и исключение коллизий при перекрытии токенов.
+- **Результаты:**
+  - Получен масштабируемый сервис структурирования неструктурированного текста запроса в формат ключ-значение для передачи в фильтры поискового движка.
+- **Стек:** `Python`, `Scikit-learn`, `Pandas`, `pymorphy3`, `RegEx`, `Matplotlib / Seaborn`.
+
+---
+
+### 📊 3. End-to-End ML Pipeline & Statistical Inference Engine
+> **Пайплайн проверки статистических гипотез, инженерии признаков и ансамблевого моделирования.**
+
+- **Методология и анализ:**
+  - Применение аппарата математической статистики для оценки значимости факторов: оценка максимального правдоподобия (ОМП), критерии согласия Пирсона ($\chi^2$), t-критерии, доверительные интервалы, критерии Вальда.
+  - Коррекция множественной проверки гипотез с использованием поправки Бонферрони (FWER control).
+- **Пайплайн данных и машинное обучение:**
+  - Реализация надежной схемы кросс-валидации (Stratified K-Fold) с предотвращением утечки целевой переменной (data leakage).
+  - Комплексный Feature Engineering: логарифмирование асимметричных распределений, работа с редкими категориями, кодирование признаков, пайплайны обработки пропусков и выбросов.
+  - Построение и тюнинг композиций моделей: градиентный бустинг (**CatBoost**, **LightGBM**, **XGBoost**) и бэггинг.
+  - Оптимизация гиперпараметров и регуляризации (L1/L2, глубина деревьев, темп обучения) через **GridSearchCV** и Random Search.
+- **Стек:** `Python`, `CatBoost`, `Scikit-learn`, `SciPy`, `Pandas`, `Polars`, `NumPy`.
+
+---
+
+### 💻 4. Algorithms & High-Performance Computing (C++ / Python)
+> **Решение алгоритмических задач и соревновательное программирование в рамках курсов МФТИ.**
+
+- Реализация эффективных структур данных и алгоритмов: динамическое программирование, графовые алгоритмы (BFS, DFS, Дейкстра, остовные деревья), структуры поиска и деревья отрезков.
+- Успешная сдача высокоуровневых академических контестов МФТИ по дисциплинам «Алгоритмы на Python» и «Программирование на C++».
+- Опыт написания эффективного по памяти и времени кода с использованием возможностей **C++ STL** (контейнеры, итераторы, алгоритмические шаблоны) и базовых концепций ООП.
+- **Стек:** `C++20`, `STL`, `Python`, `Data Structures & Algorithms`.
+
+---
+
+## 📬 Контакты / Get in Touch
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=lonvein&theme=tokyonight&hide_border=true" alt="Streak Stats" />[cite: 1]
+[![Telegram](https://img.shields.io/badge/Telegram-@ek__mipt-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ek_mipt)
+[![Email](https://img.shields.io/badge/Email-karpunin.es@phystech.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karpunin.es@phystech.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-lonvein-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lonvein)
 
 </div>
-
----
-
-## 🧪 Featured Projects
-
-### 🔬 Optical Image Restoration (CV & Physics) [![Repo](https://img.shields.io/badge/github-Image_Restoration-blue?logo=github)](https://github.com/lonvein)[cite: 1]
-
-Моделирование распространения световых волн через рассеивающие среды (ASM) и обучение нейросети для восстановления исходных изображений по спекл-картинам[cite: 1].  
-Simulation of light wave propagation through scattering media (ASM) and deep learning-based image reconstruction from speckle patterns[cite: 1].
-
-- **Architecture:** U-Net с кастомным пайплайном обучения и лосс-функциями[cite: 1]
-- **Key Result:** Превзошел классический алгоритм Фиенапа по метрике SSIM (**0.85 vs 0.12**) и скорости инференса[cite: 1]
-- **Stack:** Python, PyTorch, Torchvision, NumPy, SciPy, Matplotlib[cite: 1]
-
----
-
-### 🛒 Marketplace Query Understanding (NLP & Search) [![Repo](https://img.shields.io/badge/github-Query_Understanding-blue?logo=github)](https://github.com/lonvein)[cite: 1]
-
-Анализ, кластеризация и извлечение ключевых атрибутов из 20 000 поисковых запросов пользователей маркетплейса[cite: 1].  
-EDA, clustering, and attribute extraction module for 20k marketplace search queries[cite: 1].
-
-- **Highlights:** Кластеризация запросов (TF-IDF, SVD, KMeans), модуль нормализации и извлечения сущностей с обработкой синтаксических инверсий и пересечений токенов[cite: 1]
-- **Stack:** Python, Pandas, Scikit-learn, pymorphy3, RegEx[cite: 1]
-
----
-
-### 🧩 Algorithms & Data Structures (C++ & Python) [![Repo](https://img.shields.io/badge/github-Algorithms-blue?logo=github)](https://github.com/lonvein/achievements)[cite: 1]
-
-Решения академических контестов и задач повышенной сложности по алгоритмам и структурам данных в МФТИ[cite: 1].  
-Competitive programming solutions and data structures implementations from MIPT contests[cite: 1].
-
-- **Stack:** C++ (STL), Python, Data Structures, Dynamic Programming, Graph Algorithms[cite: 1]
-
----
-
-## 📫 Contacts
-
-- 💬 **Telegram:** [@ek_mipt](https://t.me/ek_mipt) [![Telegram](https://img.shields.io/badge/Telegram-ek__mipt-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/ek_mipt)[cite: 1]
-- 📧 **Email:** [karpunin.es@phystech.edu](mailto:karpunin.es@phystech.edu) [![Email](https://img.shields.io/badge/Email-karpunin.es%40phystech.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:karpunin.es@phystech.edu)[cite: 1]
-- 🐙 **GitHub:** [lonvein](https://github.com/lonvein) [![GitHub](https://img.shields.io/badge/GitHub-lonvein-181717?style=flat&logo=github&logoColor=white)](https://github.com/lonvein)[cite: 1]
