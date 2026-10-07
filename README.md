@@ -3,7 +3,7 @@
 # Егор Карпунин | Egor Karpunin
 
 <a href="https://github.com/lonvein">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&height=50&lines=Computer+Vision+%26+Deep+Learning+Engineer;PyTorch+%7C+Image+Restoration+%7C+U-Net;Applied+Machine+Learning+%26+Data+Science;MIPT+Student+(Applied+Physics+%26+Math)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&height=50&lines=Data+analyst+%26+Machine+Learning+Engineer;Applied+Machine+Learning+%26+Data+Science;PyTorch+%7C+Image+Restoration+%7C+U-Net;MIPT+Student+(Applied+Physics+%26+Math)" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -19,11 +19,11 @@
 
 ## 👨‍💻 Обо мне / About Me
 
-- 🔬 **ML / CV Engineer** с фундаментальной математической подготовкой (МФТИ) и фокусом на глубоком обучении, компьютерном зрении и решении прикладных физических и инженерных задач.
+- 🔬 **ML / CV Engineer** с фундаментальной математической подготовкой (МФТИ) и фокусом на глубоком обучении, анализе данных, компьютерном зрении и решении прикладных физических и инженерных задач.
 - 🎓 Студент **МФТИ (ФЭФМ)** по направлению «Прикладная физика и математика».
 - 🧠 Выпускник программ **Deep Learning School** (ФПМИ МФТИ) и **Phystech@DataScience**.
-- 🚀 Специализация: **Computer Vision** (восстановление изображений, сверточные сети, сегментация), **Applied ML** (градиентный бустинг, валидация, статистика) и алгоритмическая разработка на **Python / C++**.
-- 🎯 Открыт к предложениям по стажировкам и Junior/Middle позициям в областях Computer Vision, Deep Learning и Machine Learning.
+- 🚀 Специализация: **Applied ML** (градиентный бустинг, валидация, статистика), **Computer Vision** (восстановление изображений, сверточные сети, сегментация) и алгоритмическая разработка на **Python / C++**.
+- 🎯 Открыт к предложениям по стажировкам и Junior/Middle позициям в областях Deep Learning и Machine Learning, Computer Vision, .
 
 ---
 
